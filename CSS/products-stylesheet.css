@@ -45,7 +45,6 @@
     color: #ffffff;
     text-transform: uppercase;
     transition: font-size 0.3s ease;
-
 }
 
 .products-section-container {
@@ -164,7 +163,6 @@ p {
     fill: #ffffff;
     width: 26px;
     height: 6px;
-    background-position: 0 0;
 }
 
 .product-section-arrow {
