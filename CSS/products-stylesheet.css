@@ -198,6 +198,7 @@ p {
     .products-section-paragraph {
         font-size: 16px;
         line-height: 28px;
+        min-height: 150px;
     }
 
     .products-section-list-text-container:hover .products-section-list-title,
@@ -276,7 +277,7 @@ p {
 
     .products-section-list-text-container:hover .products-section-paragraph,
     .products-section-list-text-container:focus .products-section-paragraph {
-        font-size: 104%;
+        font-size: 102%;
 }
 }
 
@@ -337,6 +338,6 @@ p {
 
     .products-section-list-text-container:hover .products-section-paragraph,
     .products-section-list-text-container:focus .products-section-paragraph {
-        font-size: 104%;
+        font-size: 101%;
 }
 }
