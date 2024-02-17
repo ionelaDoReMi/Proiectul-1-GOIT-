@@ -101,3 +101,7 @@ p {
 .arrow-image {
     margin-top: 32px;
 }
+
+.product-section-dots-svg {
+    fill: #ffffff;
+}
